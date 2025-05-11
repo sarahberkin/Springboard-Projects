@@ -33,7 +33,7 @@ exploring the data, and getting acquainted with the 3 tables. */
 
 /* QUESTIONS 
 /* Q1: Some of the facilities charge a fee to members, but some do not.
-Write a SQL query to produce a list of the names of the facilities that do. */
+Write a SQL query to produce a list of the names of the facilities that do not. */
 Answer:
 SELECT name
 FROM Facilities
